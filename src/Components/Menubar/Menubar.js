@@ -2,7 +2,7 @@ import React from "react";
 import "./Menubar.css";
 const Menubar = (props) => {
   return (
-    <div>
+    <div> 
       <div className="container">
         <div className="row">
           <div className="col-md-2 p-2">logo</div>
